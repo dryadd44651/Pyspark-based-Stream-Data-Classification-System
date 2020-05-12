@@ -52,6 +52,6 @@ After finishing installation, you can start to run this project by belowing step
 
 
 sparkML.py: introduce how spark.ml using pipeline with 
-- clean data: StopWordsRemover, NGram
+- ETL: StopWordsRemover, NGram
 - feature: TF-IDF, word2Vec, DCT, polyExpansion, PCA
 - ML model: LogisticRegression, NaiveBayes, LinearSVC
